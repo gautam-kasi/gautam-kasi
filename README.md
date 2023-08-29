@@ -1,7 +1,4 @@
-### Hi there 👋
-
-
-
+### Hi there 👋, I'm Gautam Viswanathan
 
 - 🔭 I’m currently working on Collecting data from FIFA seasons online play
 - 🌱 I’m currently learning React.Js
